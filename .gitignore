@@ -1,3 +1,7 @@
+libs/
+slides.html
+slides.pdf
+
 # History files
 .Rhistory
 .Rapp.history

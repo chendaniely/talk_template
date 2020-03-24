@@ -1,0 +1,62 @@
+---
+title: "My Title"
+subtitle: ""
+author: "Daniel Chen @chendaniely"
+# institute: "Virginia Tech"
+date: "Date"
+output:
+  xaringan::moon_reader:
+    css: ["footer-header.css", "slide-content.css", "default"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+editor_options: 
+  chunk_output_type: console
+---
+
+class: inverse
+
+<div class="my-footer"><span>xaringan power    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+yolo</span></div> 
+
+<center>
+<div class="hello">hi!</div>
+</center>
+
+---
+
+class: inverse
+
+# I'm Daniel
+.pull-left[
+<img src='./figs/daniel_square-800x800.jpg'></img>
+]
+
+.pull-right[
+- PhD Student: Virginia Tech
+  - Data Science education & pedagogy
+  - Medical, Biomedical, Health Sciences
+-  Inten at RStudio
+  - [`gradethis`](https://github.com/rstudio-education/gradethis)
+  - Code grader for [`learnr`](https://github.com/rstudio/learnr) documents
+- Author:
+<center>
+<img src='./figs/book.jpg' style="width:200px;"></img>
+</center>
+]
+
+---
+
+class: center, middle, inverse
+
+
+# Thanks!
+
+@chendaniely
+
+Slides: https://github.com/chendaniely/
